@@ -3,14 +3,6 @@ import logo from './logo.svg';
 import './App.scss';
 import _ from 'lodash';
 
-function parseColumns(columnData){
-    return(
-        <div>
-            <h2>Title</h2>
-        </div>
-    );
-}
-
 function App(props) {
     let parsedData = props.parsedData,
         columnData = parsedData.leaders || {},
@@ -28,6 +20,39 @@ function App(props) {
       </div>
     </div>
   );
+}
+
+function parseColumns(columnData){
+    let columnTitle = columnData.title,
+        parsedGroups = _.map(columnData.groups, parseGroups);
+    return(
+        <div key={columnTitle}>
+            <h2>{columnTitle}</h2>
+            {parsedGroups}
+        </div>
+    );
+}
+
+function parseGroups(groupsData){
+    let groupHeader = groupsData.header,
+        groupDescription = groupsData.desc,
+        parsedLeaders = _.map(groupsData.leaders, parseLeaders);
+
+    return(
+        <div key={groupsData.abbrev}>
+            <h3 alt={groupDescription}>{groupHeader}</h3>
+            <div className="App__leaders-wrapper">
+                {parsedLeaders}
+            </div>
+        </div>
+    )
+}
+
+function parseLeaders(leadersData){
+
+    return(
+        <span>leader data</span>
+    )
 }
 
 export default App;

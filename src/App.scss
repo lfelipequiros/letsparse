@@ -33,3 +33,14 @@
     transform: rotate(360deg);
   }
 }
+
+.App__table-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.App__leaders-wrapper{
+    display: flex;
+    flex-direction: column;
+}

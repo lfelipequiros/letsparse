@@ -49,9 +49,16 @@ function parseGroups(groupsData){
 }
 
 function parseLeaders(leadersData){
+    let rank = leadersData.rank,
+        name = leadersData.name,
+        value = leadersData.statValue;
 
-    return(
-        <span>leader data</span>
+    return (
+        <div className="App__leader-row">
+            <span>{rank}</span>
+            <span>{name}</span>
+            <span>{value}</span>
+        </div>
     )
 }
 

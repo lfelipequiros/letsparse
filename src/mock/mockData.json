@@ -1,0 +1,410 @@
+{
+    "leaders" : [
+        {
+        "title": "Offensive Leaders",
+        "groups": [
+            {
+            "abbrev": "YDS",
+            "desc": "Passing Yards",
+            "header": "Passing",
+            "leaders": [
+                {
+                "name": "Andy Dalton",
+                "href": "http://www.espn.com/nfl/player/_/id/14012/andy-dalton",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/14012.png",
+                    "alt": "Andy Dalton"
+                },
+                "team": "CIN",
+                "statValue": "418",
+                "rank": 1
+                },
+                {
+                "name": "Dak Prescott",
+                "href": "http://www.espn.com/nfl/player/_/id/2577417/dak-prescott",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/2577417.png",
+                    "alt": "Dak Prescott"
+                },
+                "team": "DAL",
+                "statValue": "405",
+                "rank": 2
+                },
+                {
+                "name": "Matthew Stafford",
+                "href": "http://www.espn.com/nfl/player/_/id/12483/matthew-stafford",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/12483.png",
+                    "alt": "Matthew Stafford"
+                },
+                "team": "DET",
+                "statValue": "385",
+                "rank": 3
+                },
+                {
+                "name": "Case Keenum",
+                "href": "http://www.espn.com/nfl/player/_/id/15168/case-keenum",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/15168.png",
+                    "alt": "Case Keenum"
+                },
+                "team": "WSH",
+                "statValue": "380",
+                "rank": 4
+                },
+                {
+                "name": "Patrick Mahomes",
+                "href": "http://www.espn.com/nfl/player/_/id/3139477/patrick-mahomes",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/3139477.png",
+                    "alt": "Patrick Mahomes"
+                },
+                "team": "KC",
+                "statValue": "378",
+                "rank": 5
+                }
+            ],
+            "completeLeaders": {
+                "text": "Complete Leaders",
+                "link": "/nfl/stats/player/_/table/passing/sort/passingYards/dir/desc"
+            }
+            },
+            {
+            "abbrev": "YDS",
+            "desc": "Rushing Yards",
+            "header": "Rushing",
+            "leaders": [
+                {
+                "name": "Marlon Mack",
+                "href": "http://www.espn.com/nfl/player/_/id/3139605/marlon-mack",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/3139605.png",
+                    "alt": "Marlon Mack"
+                },
+                "team": "IND",
+                "statValue": "174",
+                "rank": 1
+                },
+                {
+                "name": "Christian McCaffrey",
+                "href": "http://www.espn.com/nfl/player/_/id/3117251/christian-mccaffrey",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/3117251.png",
+                    "alt": "Christian McCaffrey"
+                },
+                "team": "CAR",
+                "statValue": "128",
+                "rank": 2
+                },
+                {
+                "name": "Saquon Barkley",
+                "href": "http://www.espn.com/nfl/player/_/id/3929630/saquon-barkley",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/3929630.png",
+                    "alt": "Saquon Barkley"
+                },
+                "team": "NYG",
+                "statValue": "120",
+                "rank": 3
+                },
+                {
+                "name": "Dalvin Cook",
+                "href": "http://www.espn.com/nfl/player/_/id/3116593/dalvin-cook",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/3116593.png",
+                    "alt": "Dalvin Cook"
+                },
+                "team": "MIN",
+                "statValue": "111",
+                "rank": 4
+                },
+                {
+                "name": "Mark Ingram II",
+                "href": "http://www.espn.com/nfl/player/_/id/13981/mark-ingram-ii",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/13981.png",
+                    "alt": "Mark Ingram II"
+                },
+                "team": "BAL",
+                "statValue": "107",
+                "rank": 5
+                }
+            ],
+            "completeLeaders": {
+                "text": "Complete Leaders",
+                "link": "/nfl/stats/player/_/stat/rushing/table/rushing/sort/rushingYards/dir/desc"
+            }
+            },
+            {
+            "abbrev": "YDS",
+            "desc": "Receiving Yards",
+            "header": "Receiving",
+            "leaders": [
+                {
+                "name": "Sammy Watkins",
+                "href": "http://www.espn.com/nfl/player/_/id/16725/sammy-watkins",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/16725.png",
+                    "alt": "Sammy Watkins"
+                },
+                "team": "KC",
+                "statValue": "198",
+                "rank": 1
+                },
+                {
+                "name": "John Ross III",
+                "href": "http://www.espn.com/nfl/player/_/id/3052177/john-ross-iii",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/3052177.png",
+                    "alt": "John Ross III"
+                },
+                "team": "CIN",
+                "statValue": "158",
+                "rank": 2
+                },
+                {
+                "name": "Michael Gallup",
+                "href": "http://www.espn.com/nfl/player/_/id/4036348/michael-gallup",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4036348.png",
+                    "alt": "Michael Gallup"
+                },
+                "team": "DAL",
+                "statValue": "158",
+                "rank": 2
+                },
+                {
+                "name": "DeSean Jackson",
+                "href": "http://www.espn.com/nfl/player/_/id/11283/desean-jackson",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/11283.png",
+                    "alt": "DeSean Jackson"
+                },
+                "team": "PHI",
+                "statValue": "154",
+                "rank": 4
+                },
+                {
+                "name": "Marquise Brown",
+                "href": "http://www.espn.com/nfl/player/_/id/4241372/marquise-brown",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4241372.png",
+                    "alt": "Marquise Brown"
+                },
+                "team": "BAL",
+                "statValue": "147",
+                "rank": 5
+                }
+            ],
+            "completeLeaders": {
+                "text": "Complete Leaders",
+                "link": "/nfl/stats/player/_/stat/receiving/table/receiving/sort/receivingYards/dir/desc"
+            }
+            }
+        ]
+        },
+        {
+        "title": "Defensive Leaders",
+        "groups": [
+            {
+            "abbrev": "TOT",
+            "desc": "Total Tackles",
+            "header": "Tackles",
+            "leaders": [
+                {
+                "name": "Thomas Davis",
+                "href": "http://www.espn.com/nfl/player/_/id/8429/thomas-davis",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/8429.png",
+                    "alt": "Thomas Davis"
+                },
+                "team": "LAC",
+                "statValue": "14",
+                "rank": 1
+                },
+                {
+                "name": "Jordan Hicks",
+                "href": "http://www.espn.com/nfl/player/_/id/2514270/jordan-hicks",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/2514270.png",
+                    "alt": "Jordan Hicks"
+                },
+                "team": "ARI",
+                "statValue": "14",
+                "rank": 1
+                },
+                {
+                "name": "Cory Littleton",
+                "href": "http://www.espn.com/nfl/player/_/id/2978304/cory-littleton",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/2978304.png",
+                    "alt": "Cory Littleton"
+                },
+                "team": "LAR",
+                "statValue": "14",
+                "rank": 1
+                },
+                {
+                "name": "Eric Rowe",
+                "href": "http://www.espn.com/nfl/player/_/id/2576002/eric-rowe",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/2576002.png",
+                    "alt": "Eric Rowe"
+                },
+                "team": "MIA",
+                "statValue": "11",
+                "rank": 4
+                },
+                {
+                "name": "Xavier Woods",
+                "href": "http://www.espn.com/nfl/player/_/id/3040572/xavier-woods",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/3040572.png",
+                    "alt": "Xavier Woods"
+                },
+                "team": "DAL",
+                "statValue": "11",
+                "rank": 4
+                }
+            ],
+            "completeLeaders": {
+                "text": "Complete Leaders",
+                "link": "/nfl/stats/player/_/view/defense/table/defensive/sort/totalTackles/dir/desc"
+            }
+            },
+            {
+            "abbrev": "SACK",
+            "desc": "Sacks",
+            "header": "Sacks",
+            "leaders": [
+                {
+                "name": "Devon Kennard",
+                "href": "http://www.espn.com/nfl/player/_/id/16820/devon-kennard",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/16820.png",
+                    "alt": "Devon Kennard"
+                },
+                "team": "DET",
+                "statValue": "3.0",
+                "rank": 1
+                },
+                {
+                "name": "Cameron Wake",
+                "href": "http://www.espn.com/nfl/player/_/id/12417/cameron-wake",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/12417.png",
+                    "alt": "Cameron Wake"
+                },
+                "team": "TEN",
+                "statValue": "2.5",
+                "rank": 2
+                },
+                {
+                "name": "Terrell Suggs",
+                "href": "http://www.espn.com/nfl/player/_/id/4468/terrell-suggs",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4468.png",
+                    "alt": "Terrell Suggs"
+                },
+                "team": "ARI",
+                "statValue": "2.0",
+                "rank": 3
+                },
+                {
+                "name": "Quinton Jefferson",
+                "href": "http://www.espn.com/nfl/player/_/id/2577078/quinton-jefferson",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/2577078.png",
+                    "alt": "Quinton Jefferson"
+                },
+                "team": "SEA",
+                "statValue": "2.0",
+                "rank": 3
+                },
+                {
+                "name": "Dante Fowler Jr.",
+                "href": "http://www.espn.com/nfl/player/_/id/2980100/dante-fowler-jr",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/2980100.png",
+                    "alt": "Dante Fowler Jr."
+                },
+                "team": "LAR",
+                "statValue": "2.0",
+                "rank": 3
+                }
+            ],
+            "completeLeaders": {
+                "text": "Complete Leaders",
+                "link": "/nfl/stats/player/_/view/defense/table/defensive/sort/sacks/dir/desc"
+            }
+            },
+            {
+            "abbrev": "INT",
+            "desc": "Interceptions",
+            "header": "Interceptions",
+            "leaders": [
+                {
+                "name": "Anthony Harris",
+                "href": "http://www.espn.com/nfl/player/_/id/2577814/anthony-harris",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/2577814.png",
+                    "alt": "Anthony Harris"
+                },
+                "team": "MIN",
+                "statValue": "2",
+                "rank": 1
+                },
+                {
+                "name": "Devin McCourty",
+                "href": "http://www.espn.com/nfl/player/_/id/13236/devin-mccourty",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/13236.png",
+                    "alt": "Devin McCourty"
+                },
+                "team": "NE",
+                "statValue": "1",
+                "rank": 2
+                },
+                {
+                "name": "Earl Thomas",
+                "href": "http://www.espn.com/nfl/player/_/id/13251/earl-thomas",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/13251.png",
+                    "alt": "Earl Thomas"
+                },
+                "team": "BAL",
+                "statValue": "1",
+                "rank": 2
+                },
+                {
+                "name": "Richard Sherman",
+                "href": "http://www.espn.com/nfl/player/_/id/14086/richard-sherman",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/14086.png",
+                    "alt": "Richard Sherman"
+                },
+                "team": "SF",
+                "statValue": "1",
+                "rank": 2
+                },
+                {
+                "name": "Logan Ryan",
+                "href": "http://www.espn.com/nfl/player/_/id/15861/logan-ryan",
+                "headshot": {
+                    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/15861.png",
+                    "alt": "Logan Ryan"
+                },
+                "team": "TEN",
+                "statValue": "1",
+                "rank": 2
+                }
+            ],
+            "completeLeaders": {
+                "text": "Complete Leaders",
+                "link": "/nfl/stats/player/_/view/defense/table/defensiveInterceptions/sort/interceptions/dir/desc"
+            }
+            }
+        ]
+        }
+    ]
+  }

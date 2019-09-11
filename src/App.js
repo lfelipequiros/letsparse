@@ -4,7 +4,7 @@ import './App.scss';
 import _ from 'lodash';
 
 function App(props) {
-    let parsedData = props.parsedData,
+    let parsedData = props.parsedData || {},
         columnData = parsedData.leaders || {},
         columnsComponent = _.map(columnData, parseColumns);
 

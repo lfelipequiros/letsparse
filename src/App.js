@@ -33,13 +33,13 @@ function parseColumns(columnData){
     );
 }
 
-function parseGroups(groupsData){
+function parseGroups(groupsData, index){
     let groupHeader = groupsData.header,
         groupDescription = groupsData.desc,
         parsedLeaders = _.map(groupsData.leaders, parseLeaders);
 
     return(
-        <div key={groupsData.abbrev}>
+        <div key={`groupsData.abbrev ${index}`}>
             <h3 alt={groupDescription}>{groupHeader}</h3>
             <div className="App__leaders-wrapper">
                 {parsedLeaders}
@@ -48,13 +48,13 @@ function parseGroups(groupsData){
     )
 }
 
-function parseLeaders(leadersData){
+function parseLeaders(leadersData, index){
     let rank = leadersData.rank,
         name = leadersData.name,
         value = leadersData.statValue;
 
     return (
-        <div className="App__leader-row">
+        <div key={`${name} ${index}`} className="App__leader-row">
             <span>{rank}</span>
             <span>{name}</span>
             <span>{value}</span>

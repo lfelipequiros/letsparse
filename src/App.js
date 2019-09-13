@@ -26,7 +26,7 @@ function parseColumns(columnData){
     let columnTitle = columnData.title,
         parsedGroups = _.map(columnData.groups, parseGroups);
     return(
-        <div key={columnTitle}>
+        <div className="App__column-container" key={columnTitle}>
             <h2>{columnTitle}</h2>
             {parsedGroups}
         </div>
